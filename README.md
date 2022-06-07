@@ -4,7 +4,7 @@ thus allows to create several input as it suits you in the file 'js/creation-ite
 
 # Usage
 
-  1. This librairy use Cash (A better and smaller version of Jquery) ```html
+  1. This librairy use Cash (A better and smaller version of Jquery) ```
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cash/8.1.1/cash.min.js"></script>
     ```
   3. Utilisation of Javascript for better performance (none usage of foreach or function already gave by Js)
@@ -15,7 +15,7 @@ An unlimited modification can be done.
 It manages the creation and deletion of input names to be able to have mainly correct names and that are usable for your back-end.
 
   1. It can only be used on LiveServer
-  2. For modification go to ```javascript 
+  2. For modification go to ``` 
             ./js/creation-dynamic-input.js
             ``` 
 
