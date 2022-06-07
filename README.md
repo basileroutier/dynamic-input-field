@@ -8,3 +8,15 @@ For the addition of input, it is enough simply to create new 'Element' that will
 
 An unlimited modification can be done. 
 It manages the creation and deletion of input names to be able to have mainly correct names and that are usable for your back-end.
+
+  1. It can only be used on LiveServer
+  2. Go to ```./js/creation-dynamic-input.js``` for modification
+
+# TroubleShooting
+
+If you have some problem, please open an Issues and describe all the problems you encounter or change to be added
+
+
+# don't forget
+
+Have fun :)
